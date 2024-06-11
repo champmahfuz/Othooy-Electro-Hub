@@ -19,4 +19,4 @@ Visit [ElectroHub](https://electro-hub-shop.web.app/) to buy product.
 
 #### Server
 
-- [GitHub (ElectroHub Server Side)](https://github.com/imRHB/electro-hub-server)
+- [GitHub (ElectroHub Server Side)](https://github.com/champmahfuz/ElectroHub-Server.git)
